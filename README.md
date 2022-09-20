@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Raj Shinde , I'm an aspiring Software Developer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning :- Java Backend
+- 👋 Hi, I’m Raj Shinde , I'm an aspiring Software Developer.
+- 🌱 I’m currently learning :- Java Backend at Masai School.
 - 📫 How to reach me 📧:- rajshinde2820@gmail.com
 
 
