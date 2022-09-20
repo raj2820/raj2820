@@ -5,7 +5,7 @@
 
 
 # TECHSTACK
-![image](https://user-images.githubusercontent.com/106264672/191336140-0dc1e9ce-0bf7-4af8-8802-e9d5826e463d.png)
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57" height="28" role="img" aria-label="JAVA"><title>JAVA</title><g shape-rendering="crispEdges"><rect width="57" height="28" fill="#ed8b00"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="285" y="175" textLength="330" fill="#fff" font-weight="bold">JAVA</text></g></svg>
 ![image](https://user-images.githubusercontent.com/106264672/191336269-0827d56f-0ae7-4fa7-8489-1b77dd52bb95.png)
  ![image](https://user-images.githubusercontent.com/106264672/191335574-d795cbe5-dd07-4ca9-8763-f7eaf1891c2e.png) ![image](https://user-images.githubusercontent.com/106264672/191335822-d1f23398-9e8e-4971-bc05-f3fb6a43a99f.png)
 ![image](https://user-images.githubusercontent.com/106264672/191336409-bbfbfa54-9dd6-4f59-8cd8-a04fe9884ace.png)
