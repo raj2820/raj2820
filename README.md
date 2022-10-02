@@ -3,7 +3,6 @@
 - 📫 How to reach me 📧:- rajshinde2820@gmail.com
 
 
-
 # TECHSTACK
 ![image](https://user-images.githubusercontent.com/106264672/191341055-ca274d73-7697-4f19-9fc5-f9ba455160a0.png)
 ![image](https://user-images.githubusercontent.com/106264672/191336269-0827d56f-0ae7-4fa7-8489-1b77dd52bb95.png)
