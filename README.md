@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raj2820&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj2820)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj2820)](https://github.com/raj2820/github-readme-stats)
 
 
 
