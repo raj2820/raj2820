@@ -33,3 +33,4 @@ You can click the Preview link to take a look at your changes.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj2820&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=raj2820&show_icons=true&theme=ADD_THEME_HERE" width="400">
