@@ -32,3 +32,4 @@ You can click the Preview link to take a look at your changes.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj2820&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" >
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raj2820&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj2820&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
