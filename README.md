@@ -31,5 +31,5 @@ You can click the Preview link to take a look at your changes.
 ![image](https://user-images.githubusercontent.com/106264672/191338742-38393aa2-5d72-454c-8735-b7ec2f4393a6.png)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj2820&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj2820&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" 
 
