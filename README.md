@@ -28,9 +28,7 @@ You can click the Preview link to take a look at your changes.
 ![image](https://user-images.githubusercontent.com/106264672/191338666-5f749cae-6d72-46a5-8a55-f4850e8c4107.png) ![image](https://user-images.githubusercontent.com/106264672/191338685-86a0b2dd-6b02-4e99-a47e-0a78807286a2.png) ![image](https://user-images.githubusercontent.com/106264672/191340270-c77a1184-3364-4514-b0b3-5a66b4296349.png)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raj2820&theme=dark&background=000000)](https://git.io/streak-stats)
-
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj2820&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" >
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-raj2820&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raj2820&theme=dark&background=000000)](https://git.io/streak-stats)
