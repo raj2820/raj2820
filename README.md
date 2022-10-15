@@ -53,7 +53,11 @@ You can click the Preview link to take a look at your changes.
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raj2820&theme=dark&background=000000)](https://git.io/streak-stats) 
 
 </p>
-
+  <p align="center">
+    <a href="https://github.com/raj2820/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="raj2820 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=raj2820&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>          
    
 <br/>
    <p align="center">
