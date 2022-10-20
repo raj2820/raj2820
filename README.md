@@ -41,7 +41,8 @@ You can click the Preview link to take a look at your changes.
  
   
    <p align="center">
-<a title="Raj's Git Stats" href="https://github.com/raj2820/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api?username=raj2820&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=0D1117" ></a>
+<a title="Raj's Git Stats" href="https://github.com/raj2820/github-readme-stats">
+<img  src="https://github-readme-stats.vercel.app/api?username=raj2820&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=0D1117" ></a>
 </p>
 
 <br/>
