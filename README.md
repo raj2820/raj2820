@@ -10,7 +10,7 @@ technologies specializing in JAVA Backend..
 
 
 # TECHSTACK
-  <p align="center">
+
 
 ![image](https://user-images.githubusercontent.com/106264672/191341055-ca274d73-7697-4f19-9fc5-f9ba455160a0.png)
 ![image](https://user-images.githubusercontent.com/106264672/191336269-0827d56f-0ae7-4fa7-8489-1b77dd52bb95.png)
@@ -19,7 +19,7 @@ technologies specializing in JAVA Backend..
 ![image](https://user-images.githubusercontent.com/106264672/191336681-c73d9ada-d5fc-455b-bdac-9405a55ba7f1.png) ![image](https://user-images.githubusercontent.com/106264672/191338222-a36d72cf-e78f-428e-9309-fa6e3ba46535.png) ![image](https://user-images.githubusercontent.com/106264672/191338424-34c80482-4402-45b4-bef5-616c948b858a.png)
 
 
-</p>
+
 
 <!---
 raj2820/raj2820 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
