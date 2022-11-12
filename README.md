@@ -8,7 +8,7 @@ technologies specializing in JAVA Backend..
 - 🌱 I’m currently learning :- Java Backend at Masai School.
 - 📫 How to reach me 📧:- rajshinde2820@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj2820label=Profile%20views&color=0e75b6&style=flat" alt="raj2820md" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj2820&label=Profile%20views&color=0e75b6&style=flat" alt="raj2820md" /> </p>
 # TECHSTACK
 
 
