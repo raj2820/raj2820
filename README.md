@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Raj Shinde , A motivated software developer from Masai School. With
-1200+ hours of coding with 9-9-6 curriculum that means
-9am to 9pm 6Days a week over 8 months of intensive
-training at Masai School, seeking a full-time software
-developer position to deliver solutions to business needs. I
-am proficient in JAVA, JavaScript, and related web
-technologies specializing in JAVA Backend..
+- 👋 Hi, I’m Raj Shinde </br> A motivated software developer proficient in JAVA, JavaScript, and related web technologies specializing in JAVA Backend seeking a full-time software developer position to deliver solutions to business needs.
 - 🌱 I’m currently learning :- Java Backend at Masai School.
 - 📫 How to reach me 📧:- rajshinde2820@gmail.com
 
