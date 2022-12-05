@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Raj Shinde </br> A motivated software developer with 1200+ hours of coding, proficient in JAVA, JavaScript, and related web technologies specializing in JAVA Backend seeking a full-time software developer position to deliver solutions to business needs .
 - 🌱 I’m currently learning :- Java Backend at Masai School.
 - 📫 How to reach me 📧:- rajshinde2820@gmail.com
+- LinkedIn:- https://www.linkedin.com/in/rajshinde28/
 - :phone: :- (+91)  8655527253 / 9137378959
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj2820&label=Profile%20views&color=0e75b6&style=flat" alt="raj2820md" /> </p>
