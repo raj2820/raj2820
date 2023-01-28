@@ -48,10 +48,9 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/raj2820/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="raj2820 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=raj2820&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
-</p>          
-   
-<br/>
-<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=raj2820&theme=chartreuse-dark&no-frame=true&include_all_commits=true&count_private=true&layout=compact)">
+</p>          <br/>
+
+<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=raj2820&theme=chartreuse-dark&no-frame=true&include_all_commits=true&count_private=true&layout=compact)"/>
 
 <!--    <p align="center">
 <a href="https://github.com/raj2820/github-readme-activity-graph"><img alt="raj2820 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=raj2820&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
