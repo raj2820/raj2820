@@ -52,10 +52,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<!--    <p align="center">
+   <p align="center">
 <a href="https://github.com/raj2820/github-readme-activity-graph"><img alt="raj2820 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=raj2820&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-</p> -->
+</p>
     
   
 
