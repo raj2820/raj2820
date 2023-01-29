@@ -50,13 +50,13 @@ You can click the Preview link to take a look at your changes.
     </a>
 </p>          <br/>
 
-<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=raj2820&theme=chartreuse-dark&no-frame=true&include_all_commits=true&count_private=true&layout=compact)"/>
+
 
 <!--    <p align="center">
 <a href="https://github.com/raj2820/github-readme-activity-graph"><img alt="raj2820 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=raj2820&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 </p> -->
-     <br/>
+    
   
 
 
@@ -66,10 +66,10 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj2820&layout=compact&theme=algolia" alt="raj2820" /></a> </p>
 
 
-<a href="https://github.com/raj2820">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj2820" />
+<p align="center"> <a href="https://github.com/raj2820">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj2820" />
 </a>
-
+</p>
 
 
 
