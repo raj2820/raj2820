@@ -1,5 +1,5 @@
 - <h3>👋 Hi, I’m Raj Shinde </h3>
-- A motivated software developer with 1200+ hours of coding, proficient in JAVA, JavaScript, and related web technologies specializing in JAVA Backend seeking a full-time software developer position to deliver solutions to business needs .
+- A Software Developer developing full stack application currently working with Pyhton, FastAPI, Veu js, Nuxt js,Redis, MySQL .
 - 🌱 I’m currently working as Software Engineer at Netcore Cloud.
 - - 📫 How to reach me 📧:- rajshinde2820@gmail.com
 - :phone: :- (+91)  8655527253 / 9137378959
