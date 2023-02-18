@@ -1,6 +1,6 @@
 - <h3>👋 Hi, I’m Raj Shinde </h3>
 - A Software Developer developing full stack application currently working with Pyhton, FastAPI, Veu js, Nuxt js,Redis, MySQL .
-- 🌱 I’m currently working as Software Engineer at Netcore Cloud. <img src="https://netcorecloud.com/wp-content/themes/netcoretheme/assets/images/netcore-logo-main.svg">
+- 🌱 I’m currently working as Software Engineer at <a href="https://netcorecloud.com/"><img src="https://netcorecloud.com/wp-content/themes/netcoretheme/assets/images/netcore-logo-main.svg"></a>
 - - 📫 How to reach me 📧:- rajshinde2820@gmail.com
 - :phone: :- (+91)  8655527253 / 9137378959
 - LinkedIn:- https://www.linkedin.com/in/rajshinde28/
